@@ -1,4 +1,4 @@
-# msleep-promise
+# msleep-promise [![npm version](https://badge.fury.io/js/msleep-promise.svg)](https://badge.fury.io/js/msleep-promise)
 
 `msleep-promise` is a simple sleep function that wraps the `setTimeout` function.
 
