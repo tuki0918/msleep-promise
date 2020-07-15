@@ -27,7 +27,7 @@
     "@types/node": "12.12.42",
     "jest": "26.0.1",
     "ts-jest": "26.0.0",
-    "ts-loader": "7.0.5",
+    "ts-loader": "8.0.1",
     "typescript": "3.9.3",
     "webpack": "4.43.0",
     "webpack-cli": "3.3.11"
