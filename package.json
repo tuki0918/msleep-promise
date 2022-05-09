@@ -23,7 +23,7 @@
     "dist"
   ],
   "devDependencies": {
-    "@types/jest": "26.0.5",
+    "@types/jest": "27.5.0",
     "@types/node": "14.0.24",
     "jest": "26.1.0",
     "ts-jest": "26.0.0",
